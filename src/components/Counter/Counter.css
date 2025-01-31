@@ -1,0 +1,22 @@
+.counter {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .counter-container {
+    margin-top: 10px;
+  }
+  
+  .toggle-btn {
+    padding: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  button {
+    padding: 8px;
+    margin: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
